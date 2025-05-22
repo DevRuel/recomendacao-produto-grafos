@@ -79,7 +79,7 @@ Essas estruturas garantem buscas rápidas mesmo em grandes volumes de dados.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/devmclara/recomendacao-produto-grafos.git
+git clone https://github.com/DevRuel/recomendacao-produto-grafos.git
 cd recomendacao-produto-grafos
 ```
 
